@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talcrypto&show_icons=true&locale=en&layout=compact&theme=dracula&private=true" alt="talcrypto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talcrypto&show_icons=true&locale=en&count_private=true&private=true" alt="talcrypto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talcrypto&show_icons=true&locale=en&theme=dracula&count_private=true&private=true" alt="talcrypto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talcrypto&" alt="talcrypto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talcrypto&&theme=dracula" alt="talcrypto" /></p>
 
