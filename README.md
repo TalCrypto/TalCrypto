@@ -23,5 +23,6 @@
 
 <p>&nbsp;<img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=talcrypto&show_icons=true&locale=en&theme=dracula&count_private=true&private=true" alt="talcrypto" /></p>
 <br/>
+<p height="10px"></p>
 <p><img height="150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talcrypto&&theme=dracula" alt="talcrypto" /></p>
 
