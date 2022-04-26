@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hunter</h1>
-<h3 align="center">A passionate blockchain lead developer from China</h3>
+<h3 align="center">A passionate blockchain engineer who has a mathematical brain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talcrypto&label=Profile%20views&color=0e75b6&style=flat" alt="talcrypto" /> </p>
 
