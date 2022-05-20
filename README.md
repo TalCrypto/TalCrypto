@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talcrypto" alt="talcrypto" /></a> </p> -->
 
-- 🔭 I’m currently working on [BYG(BlackEyeGalaxy) team](https://explore.blackeyegalaxy.space/)
+- 🔭 I had worked as a lead developer at [BYG(BlackEyeGalaxy) team](https://explore.blackeyegalaxy.space/)
 
 - 📫 How to reach me **wnick9381@gmail.com**
 
