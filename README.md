@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **leehunter936@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bdtahpesgE7lW7FrZFZgfqaVfvawfkKX/view?usp=sharing](https://drive.google.com/file/d/1bdtahpesgE7lW7FrZFZgfqaVfvawfkKX/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1YQqJgBybW-dCn9cXANGjugRUKzRZE71H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
