@@ -5,12 +5,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talcrypto" alt="talcrypto" /></a> </p> -->
 
-- 🔭 I had worked as a lead developer at [BYG(BlackEyeGalaxy) team](https://explore.blackeyegalaxy.space/)
-
-- 📫 How to reach me **leehunter936@gmail.com**
-
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1YQqJgBybW-dCn9cXANGjugRUKzRZE71H/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hunter-lee-b94464235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hunter-lee-b94464235/" height="30" width="40" /></a>
